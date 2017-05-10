@@ -1,0 +1,23 @@
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+body {
+    padding-top: 10px;
+}
+[class*="col"] { margin-bottom: 20px; }
+img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+body { margin-top: 10px; }
+}
+.col-lg-offset-6 {
+    margin-left: 50%;
+}
+footer {
+    text-align: center;
+}
